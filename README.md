@@ -3,11 +3,11 @@ Trabalho de Conclusão de Curso da Etec Sales Gomes
 
 
 # Aplicativo de gestão de manutenção MGR
-## Linguamgem utilizada:
+## Linguagem utilizada:
 ### Kotlin
 
 ```
-#variáveis
+# variáveis
 
 //ruim
 var nome = 'leo'
